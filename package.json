@@ -17,5 +17,9 @@
     "typescript": "^2.2.2"
   },
   "author": "Ian Warrington",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NuclearFishin/cloudtail.git"
+  }
 }
